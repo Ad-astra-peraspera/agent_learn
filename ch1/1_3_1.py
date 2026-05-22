@@ -28,7 +28,6 @@ import os
 import re
 import sys
 from pathlib import Path
-
 import requests
 from dotenv import load_dotenv
 from openai import OpenAI
